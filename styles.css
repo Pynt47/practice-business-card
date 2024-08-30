@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+}
+
+.nick {
+    width: 150px;
+    height: 150px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background: #ddebf8;
+    border-bottom: 6px solid #a7d1f2;
+}
+
+.text {
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
